@@ -68,49 +68,63 @@
 - 下記リンクに情報あり．
   - [https://www.oldcalculatormuseum.com/sharp363p.html](https://www.oldcalculatormuseum.com/sharp363p.html)
 
-
 ### Hitachi ELCA 22 (KK-22)
-![](./images/ELCA22.jpg)
 - 動作?
+![](./images/ELCA22.jpg)
+- 1968年7月発売．当時の価格239,000円．寸法　幅28cm×奥行36cm×高さ12.4cm．
+- ELCA22 は、1968年７月に発売されたMOS-IC電卓。106個のMOS型トランジスタ、MOS型ダイオードを搭載している。機能としては、ELCA12の機能に個々の積および積和（差）、オーバーフロー機能、メモリー機能が追加された。MOS-ICを搭載することでELCA12と比べ総部品数では1/5、容積1/4、重量1/3になった。([電卓博物館](http://www.dentaku-museum.com/calc/calc/6-hitachi/hitachid/hitachid.html)より引用)
 
 ### Hitachi ELCA 42 (KK-42)
-![](./images/ELCA42.jpg)
 - 動作?
-
+![](./images/ELCA42.jpg)
+- 1971年4月発売．125,000円．
+- 純国産LSI使用したわが国最初の卓上計算機．計算素子は HI・LSI。他にレジスター3個、メモリー1個使用。26.5(W)×30.8(D)×10.0(H)cm。
+- [電卓博物館](http://www.dentaku-museum.com/calc/calc/6-hitachi/hitachid/hitachid.html)に取扱説明書あり．
 
 ### Ricoh RICOMAC 1420
-![](./images/ROCOMAC1420.jpg)
 - 未使用品(?)．説明書付き．
-
+![](./images/ROCOMAC1420.jpg)
+- 1969年発売．当時の価格は278,000円．28(W)×42(D)×12(h)cm。7kg。
+- MOS-ICの全面採用により小型化を実現した。メモリーは2個。
 
 ### Ricoh RICOMAC 121N
-![](./images/ROCOMAC121N.jpg)
 - 動作?
+![](./images/ROCOMAC121N.jpg)
+- 1970年後半から71年前半にかけて発売されたものと推定される。([電卓博物館](http://www.dentaku-museum.com/calc/calc/12-ricoh/ricohd/ricohd.html)より)
 
 ### Unitrex IC-8
-![](./images/IC8.jpg)
 - 動作NG．
+![](./images/IC8.jpg)
+- 1968年11月発売．価格は158,000円だった。21×29×9.9cm。 2.9kg。
+- 栄光ビジネスマシンより発売されたユニトレックスIC8。
+桁数は8桁と少ないがICを使うことにより小型で軽量化されていた。
+([電卓博物館](http://www.dentaku-museum.com/calc/calc/15-eiko/unitrexd/unitrexd.html)より引用)
 
 ### Unitrex Frontier K-305
-![](./images/FrontierK305.jpg)
 - 動作?
+![](./images/FrontierK305.jpg)
+- 上記IC8のOEMっぽい．ネットに情報無し．
 
 ### Toshiba BC-1002
-![](./images/BC1002.jpg)
 - 動作?
-
+![](./images/BC1002.jpg)
+- 1971年発売．95,000円．182(W)×257(D)×88(H)mm。重量 1.9kg。
+- BC1002は、BC-1011と同じく1971年に発売された10桁シリーズの卓上計算機である。演算素子としては東芝が電卓用に独自に開発したLSIを3個使用し、安定した性能とコンパクト化を実現した。
+BC-1002は、手や指の大きさに合わせたB5版「ジャストサイズ」で、表示は10桁だが14桁まで計算ができ、価格は95,000円と当時の携帯型と比べ少し高いだけであった。表示部分にフードを付け、表示部をみやすくするとともに、開閉と同時に電源がオンオフするようになっていた。
+BC-1011は、BC-1002に1メモリを追加したのものでキーが3個（AAキー、Tキー、Sキー）多く付いている。
+([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)より引用)
 
 ### National CT-511A
-![](./images/NationalCT511A.jpg)
 - 動作OK?
+![](./images/NationalCT511A.jpg)
 
 ### Tektronix 454A
-![](./images/Tektronix454A.jpg)
 - 動作OK?
+![](./images/Tektronix454A.jpg)
 
 ### Tektronix 468
-![](./images/Tektronix468.jpg)
 - 動作OK?
+![](./images/Tektronix468.jpg)
 
 
 ## 寄贈品リスト(2022年)
