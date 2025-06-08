@@ -110,6 +110,8 @@
 ### Sharp PC-7200
 - 一部動作OK．(下8桁点灯せず．)
 ![](./images/PC7200.jpg)
+- 1977～78年頃の高校の教育用計算機
+- CPUはRockwell PPS-8
 #### 動画
 [![](http://img.youtube.com/vi/AM4R2I0qPCQ/0.jpg)](https://www.youtube.com/watch?v=AM4R2I0qPCQ)
 
