@@ -65,7 +65,6 @@
 - 1971年発売．320,000円
 - 1971年に発売された高級プログラム電卓。7メモリー、144ステップ、磁気カード方式を採用。サブ・ルーチン機能、データの外部記憶機能をこのクラスで初めて搭載ミニコン並の能力を持つことに成功した。使用素子　ELSI 6個　その他LSIなど。340(W)×420(D)×143(H)mm。8.5kg。
 ([電卓博物館](http://www.dentaku-museum.com/calc/calc/1-sharp/1-sharpd/sharpd.html)より引用)
-
 - 下記リンクに情報あり．
   - [https://www.oldcalculatormuseum.com/sharp363p.html](https://www.oldcalculatormuseum.com/sharp363p.html)
 
