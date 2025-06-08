@@ -5,7 +5,7 @@
 
 ## 寄贈品リスト(2025年)
 ### CASIO AL-1000
-![](./images/AL1000_1.jpg)
+![](./images/AL1000.jpg)
 - 1967年10月発売．当時の価格 328,000円．
 - プログラムをソフトウェア化し、一連の命令をキーボードで簡単に記憶装置に入力できるようにした世界で最初のプログラム付電卓。
 14桁の演算レジスター・記憶レジスター(4組）・プログラム記憶装置（30ステップ、15ステップ2組に分割可能）を全て磁気コアで形勢させたので、普通の電卓と同程度の小型化が実現した。
@@ -15,25 +15,25 @@
 [![](http://img.youtube.com/vi/BeIrLHDxwRw/0.jpg)](https://www.youtube.com/watch?v=BeIrLHDxwRw)
 
 ### CASIO AL-2000
-![](./images/AL2000_1.jpg)
+![](./images/AL2000.jpg)
 
 ### SONY SOBAX 510 (ICC-510)
-![](./images/SOBAX510_1.jpg)
+![](./images/SOBAX510.jpg)
 
 ### SONY SOBAX 330 (ICC-330)
-![](./images/SOBAX330_1.jpg)
+![](./images/SOBAX330.jpg)
 
 ## 寄贈品リスト(2022年)
 ### Toshiba BC-1001
-![](./images/BC1001_1.jpg)
+![](./images/BC1001.jpg)
 
 ### Toshiba BC-1201
-![](./images/BC1201_1.jpg)
+![](./images/BC1201.jpg)
 
 ### Toshiba BC-1411
-![](./images/BC1411_1.jpg)
+![](./images/BC1411.jpg)
 
 ### Sharp PC-7200
-![](./images/PC7200_1.jpg)
+![](./images/PC7200.jpg)
 
 
