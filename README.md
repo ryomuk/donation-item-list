@@ -25,8 +25,8 @@
 [![](http://img.youtube.com/vi/e4F-G-5JWjo/0.jpg)](https://www.youtube.com/watch?v=e4F-G-5JWjo)
 
 ### SONY SOBAX 510 (ICC-510)
-![](./images/SOBAX510.jpg)
 - 動作OK．
+![](./images/SOBAX510.jpg)
 - 1969年発売．当時の価格228,000円．
 
 
@@ -76,8 +76,8 @@
 ## 寄贈品リスト(2022年)
 ### Toshiba BC-1001
 - 動作OK．
-- 東芝の最初の電卓．
 ![](./images/BC1001.jpg)
+- 東芝の最初の電卓．
 - 表示は光点表示器。アクリル板にドットで数字が描かれていて、横から光を入れて照らすと数字が表示される仕組み。下記リンク先に詳しい情報あり。
   - [http://www.electricstuff.co.uk/count.html](http://www.electricstuff.co.uk/count.html)
   - [http://www.dentaku-museum.com/1-exb/special/displaybyty/display.htm](http://www.dentaku-museum.com/1-exb/special/displaybyty/display.htm)
@@ -104,6 +104,11 @@
 ### Toshiba BC-1411
 - 動作NG．
 ![](./images/BC1411.jpg)
+- 1966年12月に発売された東芝２代目の電卓。14桁1メモリ。価格は390,000円（月賦定価 420,000円）だった。
+- 技術的にはメモリー部分に初めてコンデンサー・メモリーを採用することで部品点数の削減、小型化を実現した。
+- 外観はキーボード部分にディスプレイ部分が載った形をしているが、内部は８枚のキーボードが垂直に並んでいる。スマートに見せるための工夫で、初期の電卓の中ではデザインが秀逸。
+
+([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)から引用)
 
 ### Sharp PC-7200
 - 一部動作OK．(下8桁点灯せず．)
