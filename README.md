@@ -75,12 +75,31 @@
 
 ## 寄贈品リスト(2022年)
 ### Toshiba BC-1001
-![](./images/BC1001.jpg)
 - 動作OK．
+- 東芝の最初の電卓．
+![](./images/BC1001.jpg)
+- 表示は光点表示器。アクリル板にドットで数字が描かれていて、横から光を入れて照らすと数字が表示される仕組み。下記リンク先に詳しい情報あり。
+  - [http://www.electricstuff.co.uk/count.html](http://www.electricstuff.co.uk/count.html)
+  - [http://www.dentaku-museum.com/1-exb/special/displaybyty/display.htm](http://www.dentaku-museum.com/1-exb/special/displaybyty/display.htm)
+- 1965年12月に東芝が初めて発売した電卓（京浜、京阪神地区、全国発売は1966年4月から）。自社で開発した高性能トランジスタを使って完成させた。
+([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)から引用)
+  - テンキー式10桁。
+  - 239(H)×403(W)×458(D)mm。重量　約18kg。
+  - 定価　　　　 375,000円。現金定価　　360,000円。あやまって破損しても保障する動産総合保険が付いていた。
+
+#### 動画
+[![](http://img.youtube.com/vi/bSgsL_RL1QQ/0.jpg)](https://www.youtube.com/watch?v=bSgsL_RL1QQ)
 
 ### Toshiba BC-1201
 ![](./images/BC1201.jpg)
 - 動作OK．
+- 1967年5月に発売された東芝初期の12桁オールトランジスタ製デスクトップ電卓。自社製の高性能トランジスタ、ダイオードを使用した当時としては世界トップレベルの小型機。
+([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)から引用)
+- 332(W)×419(D)×202(H)mm。
+- 当時の定価（現金定価）　219,000円。
+
+#### 動画
+[![](http://img.youtube.com/vi/qIcW7tdNmYQ/0.jpg)](https://www.youtube.com/watch?v=qIcW7tdNmYQ)
 
 ### Toshiba BC-1411
 ![](./images/BC1411.jpg)
@@ -89,5 +108,6 @@
 ### Sharp PC-7200
 ![](./images/PC7200.jpg)
 - 一部動作OK．(下8桁点灯せず．)
-
+#### 動画
+[![](http://img.youtube.com/vi/AM4R2I0qPCQ/0.jpg)](https://www.youtube.com/watch?v=AM4R2I0qPCQ)
 
