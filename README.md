@@ -11,7 +11,7 @@
 14桁の演算レジスター・記憶レジスター(4組）・プログラム記憶装置（30ステップ、15ステップ2組に分割可能）を全て磁気コアで形勢させたので、普通の電卓と同程度の小型化が実現した。
 価格も普通の電卓と比べ3割程度しか高くなかったので、国内はもとより欧米各国でも非常な人気を博し、ベストセラー電卓となった。
 ([電卓博物館](http://www.dentaku-museum.com/calc/calc/2-casio/1-casiod/casiod.html)より引用)
-####動画
+#### 動画
 [![](http://img.youtube.com/vi/BeIrLHDxwRw/0.jpg)](https://www.youtube.com/watch?v=BeIrLHDxwRw)
 
 ### CASIO AL-2000
