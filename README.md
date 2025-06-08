@@ -5,8 +5,8 @@
 
 ## 寄贈品リスト(2025年)
 ### CASIO AL-1000
-![](./images/AL1000.jpg)
 - 一部動作OK．(計算OK．プログラムNG?)
+![](./images/AL1000.jpg)
 - 1967年10月発売．当時の価格 328,000円．
 - プログラムをソフトウェア化し、一連の命令をキーボードで簡単に記憶装置に入力できるようにした世界で最初のプログラム付電卓。
 14桁の演算レジスター・記憶レジスター(4組）・プログラム記憶装置（30ステップ、15ステップ2組に分割可能）を全て磁気コアで形勢させたので、普通の電卓と同程度の小型化が実現した。
@@ -16,10 +16,10 @@
 [![](http://img.youtube.com/vi/BeIrLHDxwRw/0.jpg)](https://www.youtube.com/watch?v=BeIrLHDxwRw)
 
 ### CASIO AL-2000
-![](./images/AL2000.jpg)
 - 動作NG．
-- 1969年発売．当時の価格318,000円．
 - この個体は京大工学部工業化学教室で使用されていたもののようである．
+![](./images/AL2000.jpg)
+- 1969年発売．当時の価格318,000円．
 
 #### 動画
 [![](http://img.youtube.com/vi/e4F-G-5JWjo/0.jpg)](https://www.youtube.com/watch?v=e4F-G-5JWjo)
@@ -31,8 +31,8 @@
 
 
 ### SONY SOBAX 330 (ICC-330)
-![](./images/SOBAX330.jpg)
 - 動作OK．
+![](./images/SOBAX330.jpg)
 - 1973年発売．
 - 同シリーズのICC-300(価格69,800円)に事務処理の機能を強化したもの．
 - このシリーズは、機種により機能の違いはあるものの、下記のような共通の特徴を持っていた。
@@ -91,8 +91,8 @@
 [![](http://img.youtube.com/vi/bSgsL_RL1QQ/0.jpg)](https://www.youtube.com/watch?v=bSgsL_RL1QQ)
 
 ### Toshiba BC-1201
-![](./images/BC1201.jpg)
 - 動作OK．
+![](./images/BC1201.jpg)
 - 1967年5月に発売された東芝初期の12桁オールトランジスタ製デスクトップ電卓。自社製の高性能トランジスタ、ダイオードを使用した当時としては世界トップレベルの小型機。
 ([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)から引用)
 - 332(W)×419(D)×202(H)mm。
@@ -102,12 +102,12 @@
 [![](http://img.youtube.com/vi/qIcW7tdNmYQ/0.jpg)](https://www.youtube.com/watch?v=qIcW7tdNmYQ)
 
 ### Toshiba BC-1411
-![](./images/BC1411.jpg)
 - 動作NG．
+![](./images/BC1411.jpg)
 
 ### Sharp PC-7200
-![](./images/PC7200.jpg)
 - 一部動作OK．(下8桁点灯せず．)
+![](./images/PC7200.jpg)
 #### 動画
 [![](http://img.youtube.com/vi/AM4R2I0qPCQ/0.jpg)](https://www.youtube.com/watch?v=AM4R2I0qPCQ)
 
