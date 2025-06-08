@@ -17,6 +17,9 @@
 ### CASIO AL-2000
 ![](./images/AL2000.jpg)
 
+#### 動画
+[![](http://img.youtube.com/vi/e4F-G-5JWjo/0.jpg)](https://www.youtube.com/watch?v=e4F-G-5JWjo)
+
 ### SONY SOBAX 510 (ICC-510)
 ![](./images/SOBAX510.jpg)
 
