@@ -5,8 +5,11 @@
 
 ## 寄贈品リスト(2025年)
 ### CASIO AL-1000
-### CASIO AL-2000
+![](./images/AL1000_1.jpg)
 
+### CASIO AL-2000
+### SONY SOBAX 510 (ICC-510)
+### SONY SOBAX 330 (ICC-330)
 
 
 ## 寄贈品リスト(2022年)
