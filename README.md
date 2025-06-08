@@ -82,7 +82,7 @@
   - [http://www.electricstuff.co.uk/count.html](http://www.electricstuff.co.uk/count.html)
   - [http://www.dentaku-museum.com/1-exb/special/displaybyty/display.htm](http://www.dentaku-museum.com/1-exb/special/displaybyty/display.htm)
 - 1965年12月に東芝が初めて発売した電卓（京浜、京阪神地区、全国発売は1966年4月から）。自社で開発した高性能トランジスタを使って完成させた。
-([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)から引用)
+([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)より引用)
   - テンキー式10桁。
   - 239(H)×403(W)×458(D)mm。重量　約18kg。
   - 定価　　　　 375,000円。現金定価　　360,000円。あやまって破損しても保障する動産総合保険が付いていた。
@@ -94,7 +94,7 @@
 - 動作OK．
 ![](./images/BC1201.jpg)
 - 1967年5月に発売された東芝初期の12桁オールトランジスタ製デスクトップ電卓。自社製の高性能トランジスタ、ダイオードを使用した当時としては世界トップレベルの小型機。
-([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)から引用)
+([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)より引用)
 - 332(W)×419(D)×202(H)mm。
 - 当時の定価（現金定価）　219,000円。
 
@@ -104,11 +104,7 @@
 ### Toshiba BC-1411
 - 動作NG．
 ![](./images/BC1411.jpg)
-- 1966年12月に発売された東芝２代目の電卓。14桁1メモリ。価格は390,000円（月賦定価 420,000円）だった。
-- 技術的にはメモリー部分に初めてコンデンサー・メモリーを採用することで部品点数の削減、小型化を実現した。
-- 外観はキーボード部分にディスプレイ部分が載った形をしているが、内部は８枚のキーボードが垂直に並んでいる。スマートに見せるための工夫で、初期の電卓の中ではデザインが秀逸。
-
-([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)から引用)
+- 1966年12月に発売された東芝２代目の電卓。14桁1メモリ。価格は390,000円（月賦定価 420,000円）だった。技術的にはメモリー部分に初めてコンデンサー・メモリーを採用することで部品点数の削減、小型化を実現した。外観はキーボード部分にディスプレイ部分が載った形をしているが、内部は８枚のキーボードが垂直に並んでいる。スマートに見せるための工夫で、初期の電卓の中ではデザインが秀逸。([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)より引用)
 
 ### Sharp PC-7200
 - 一部動作OK．(下8桁点灯せず．)
