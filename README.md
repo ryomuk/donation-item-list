@@ -6,7 +6,7 @@
 ## 寄贈品リスト(2025年)
 ### CASIO AL-1000
 ![](./images/AL1000_1.jpg)
-![http://img.youtube.com/vi/BeIrLHDxwRw/0.jpg](https://www.youtube.com/watch?v=BeIrLHDxwRw)
+[![](http://img.youtube.com/vi/BeIrLHDxwRw/0.jpg)](https://www.youtube.com/watch?v=BeIrLHDxwRw)
 - 1967年10月発売．当時の価格 328,000円．
 - プログラムをソフトウェア化し、一連の命令をキーボードで簡単に記憶装置に入力できるようにした世界で最初のプログラム付電卓。
 14桁の演算レジスター・記憶レジスター(4組）・プログラム記憶装置（30ステップ、15ステップ2組に分割可能）を全て磁気コアで形勢させたので、普通の電卓と同程度の小型化が実現した。
