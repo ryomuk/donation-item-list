@@ -60,7 +60,7 @@
   - [https://www.oldcalculatormuseum.com/canon164p.html](https://www.oldcalculatormuseum.com/canon164p.html)
 
 ### Sharp Compet 363P (CS-363P)
-- 動作NG?
+- 動作NG．電源入らず．キー固着．
 ![](./images/Compet363P.jpg)
 - 1971年発売．320,000円
 - 1971年に発売された高級プログラム電卓。7メモリー、144ステップ、磁気カード方式を採用。サブ・ルーチン機能、データの外部記憶機能をこのクラスで初めて搭載ミニコン並の能力を持つことに成功した。使用素子　ELSI 6個　その他LSIなど。340(W)×420(D)×143(H)mm。8.5kg。
@@ -68,14 +68,21 @@
 - 下記リンクに情報あり．
   - [https://www.oldcalculatormuseum.com/sharp363p.html](https://www.oldcalculatormuseum.com/sharp363p.html)
 
+### Sharp Compet 362 (CS-362)
+- 動作NG．入手した当初は動いたが，電源が入らなくなってしまった．M+IIのキーが固着して動かない．(修理を試みたが無理だった．)
+![](./images/Compet363P.jpg)
+- 当時の価格 220,000円
+- 事務用万能機．16桁．
+
 ### Hitachi ELCA 22 (KK-22)
-- 動作?
+- 動作OK．(四則演算，メモリを確認)
 ![](./images/ELCA22.jpg)
 - 1968年7月発売．当時の価格239,000円．寸法　幅28cm×奥行36cm×高さ12.4cm．
 - ELCA22 は、1968年７月に発売されたMOS-IC電卓。106個のMOS型トランジスタ、MOS型ダイオードを搭載している。機能としては、ELCA12の機能に個々の積および積和（差）、オーバーフロー機能、メモリー機能が追加された。MOS-ICを搭載することでELCA12と比べ総部品数では1/5、容積1/4、重量1/3になった。([電卓博物館](http://www.dentaku-museum.com/calc/calc/6-hitachi/hitachid/hitachid.html)より引用)
+- 電源を入れてニキシー管が全点灯するまで1〜2分ほどかかる．
 
 ### Hitachi ELCA 42 (KK-42)
-- 動作?
+- 動作OK．(四則演算，メモリを確認)
 ![](./images/ELCA42.jpg)
 - 1971年4月発売．125,000円．
 - 純国産LSI使用したわが国最初の卓上計算機．計算素子は HI・LSI。他にレジスター3個、メモリー1個使用。26.5(W)×30.8(D)×10.0(H)cm。
@@ -88,10 +95,12 @@
 - MOS-ICの全面採用により小型化を実現した。メモリーは2個。
 
 ### Ricoh RICOMAC 121N
-- 動作?
+- 動作OK．(四則演算，メモリを確認)
 ![](./images/ROCOMAC121N.jpg)
 - 1970年後半から71年前半にかけて発売されたものと推定される。([電卓博物館](http://www.dentaku-museum.com/calc/calc/12-ricoh/ricohd/ricohd.html)より)
 
+<<!--
+Unitrex IC8が行方不明なのでとりあえずコメントアウト
 ### Unitrex IC-8
 - 動作NG．
 ![](./images/IC8.jpg)
@@ -112,11 +121,14 @@
 - 10桁シリーズの卓上計算機。演算素子としては東芝が電卓用に独自に開発したLSIを3個使用し、安定した性能とコンパクト化を実現した。
 BC-1002は、手や指の大きさに合わせたB5版「ジャストサイズ」で、表示は10桁だが14桁まで計算ができ、価格は95,000円と当時の携帯型と比べ少し高いだけであった。表示部分にフードを付け、表示部をみやすくするとともに、開閉と同時に電源がオンオフするようになっていた。
 ([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)より引用)
-
+-->
+ 
 ### National CT-511A
-- 動作OK?
+- 入手当時は動作OKだったが，現時点の動作は不明．
 ![](./images/NationalCT511A.jpg)
 ![](./images/NationalCT511A_1.jpg)
+- 22(W)×42(D)×32(H)cm．約15kg
+
 
 ### Tektronix 454A
 - 動作OK?
