@@ -99,7 +99,7 @@
 ![](./images/ROCOMAC121N.jpg)
 - 1970年後半から71年前半にかけて発売されたものと推定される。([電卓博物館](http://www.dentaku-museum.com/calc/calc/12-ricoh/ricohd/ricohd.html)より)
 
-<<!--
+<!--
 Unitrex IC8が行方不明なのでとりあえずコメントアウト
 ### Unitrex IC-8
 - 動作NG．
