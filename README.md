@@ -99,21 +99,6 @@
 ![](./images/ROCOMAC121N.jpg)
 - 1970年後半から71年前半にかけて発売されたものと推定される。([電卓博物館](http://www.dentaku-museum.com/calc/calc/12-ricoh/ricohd/ricohd.html)より)
 
-<!-- Unitrex IC8が行方不明なのでとりあえずコメントアウト
-### Unitrex IC-8
-- 動作NG．
-![](./images/IC8.jpg)
-- 1968年11月発売．価格は158,000円だった。21×29×9.9cm。 2.9kg。
-- 栄光ビジネスマシンより発売されたユニトレックスIC8。
-桁数は8桁と少ないがICを使うことにより小型で軽量化されていた。
-([電卓博物館](http://www.dentaku-museum.com/calc/calc/15-eiko/unitrexd/unitrexd.html)より引用)
-
-### Unitrex Frontier K-305
-- 動作?
-![](./images/FrontierK305.jpg)
-- 上記IC8のOEMっぽい．ネットに情報無し．
-ここまでコメントアウト -->
-
 ### Toshiba BC-1002
 - 動作?
 ![](./images/BC1002.jpg)
