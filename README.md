@@ -1,6 +1,6 @@
 # donation-item-list
 
-過去に収集したいろいろな物品のいくつかを[科学技術継承財団(夢の図書館+マイコン博物館+模型とラジオの博物館)](https://scitech.or.jp/)に寄贈させていただきました。
+過去に収集したいろいろな物品のいくつかを[科学技術継承財団(夢の図書館+マイコン博物館+模型とラジオの博物館)](https://scitech.or.jp/)に寄贈させていただくことにしました。
 それらに関する情報を整理するために作ったページです。
 
 寄贈した個体について以下のような順でまとめてあります．
@@ -123,6 +123,13 @@
 BC-1002は、手や指の大きさに合わせたB5版「ジャストサイズ」で、表示は10桁だが14桁まで計算ができ、価格は95,000円と当時の携帯型と比べ少し高いだけであった。表示部分にフードを付け、表示部をみやすくするとともに、開閉と同時に電源がオンオフするようになっていた。
 ([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)より引用)
  
+### Toshiba BC-1011
+- 動作?
+![](./images/ToshibaBC1011.jpg)
+- 1971年5月発売．115,000円。182(W)×88(H)×257(D)mm。重量 1.9kg.
+- BC-1002 に1メモリを追加したもの。東芝が初めて電卓用として量産化に成功した「汎用LSI」を使用している。特徴として、表示桁数は10桁だが、演算結果が10桁を超えた時はキー操作で表示数を右へ1桁ずつシフトすることで最大14桁まで演算できる。また、「AA」キーをロックすることで累計計算ができる．
+([電卓博物館](http://www.dentaku-museum.com/calc/calc/5-toshiba/1-toshibad/toshibad.html)より)
+
 ### Unitrex IC-8
 - 動作NG．
 ![](./images/UnitrexIC8.jpg)
@@ -134,7 +141,7 @@ BC-1002は、手や指の大きさに合わせたB5版「ジャストサイズ�
 - [Calcuseum](http://www.calcuseum.com/scrapbook/BONUS/15048/1.htm)のCollector valueが9/10なのでかなりレアだと思われる．
 
 ### Unitrex Frontier K-305
-- 動作?
+- 動作NG．(表示は点灯するが挙動がおかしい．)
 ![](./images/UnitrexFrontierK305.jpg)
 - 上記IC8のOEMっぽい．ネットに情報無し．
 
@@ -145,26 +152,25 @@ BC-1002は、手や指の大きさに合わせたB5版「ジャストサイズ�
 - [電卓博物館](http://www.dentaku-museum.com/hc/computer/mechanical/mechanical.html)
 
 ### タイガー計算器 Tiger E64-21
-- 
+- 動作NG．
 ![](./images/TigerE64-21.jpg)
-- 電動機械式計算器．
-- 
+- 電動機械式．
+- 1964年発売．当時の価格1,470,000円(?)
 
-### FACIT
+### FACIT CA1-13
 - たぶん動作NG．要220Vのため未確認．
 ![](./images/FacitCA1-13.jpg)
-- 電動機械式計算器．
-- 
+- 電動機械式．
+- 1969年頃発売?
 
 ### National CT-511A
-- 入手当時は動作OKだったが，現時点の動作は不明．
+- オシロ時計表示OK．詳細動作は未確認．
 ![](./images/NationalCT511A.jpg)
 ![](./images/NationalCT511A_1.jpg)
 - 22(W)×42(D)×32(H)cm．約15kg
 
-
 ### Tektronix 454A
-- 動作OK?
+- オシロ時計表示OK．詳細動作は未確認．
 ![](./images/Tektronix454A.jpg)
 - 1971〜1974年
 - 帯域幅 150MHz．
@@ -172,7 +178,7 @@ BC-1002は、手や指の大きさに合わせたB5版「ジャストサイズ�
 - [https://w140.com/tekwiki/wiki/454](https://w140.com/tekwiki/wiki/454)
 
 ### Tektronix 468
-- 動作OK?
+- オシロ時計表示OK．詳細動作は未確認．
 ![](./images/Tektronix468.jpg)
 - 1980〜1985年．
 - 帯域幅 アナログ100MHz, デジタル10MHz，シングルショット2.5MHz．
