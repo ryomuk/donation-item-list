@@ -171,7 +171,6 @@ BC-1002は、手や指の大きさに合わせたB5版「ジャストサイズ�
 ### National CT-511A
 - オシロ時計表示OK．詳細動作は未確認．
 ![](./images/NationalCT511A.jpg)
-![](./images/NationalCT511A_1.jpg)
 - 22(W)×42(D)×32(H)cm．約15kg
 
 ### Tektronix 454A
