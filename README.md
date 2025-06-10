@@ -31,6 +31,11 @@
 #### 動画
 [![](http://img.youtube.com/vi/e4F-G-5JWjo/0.jpg)](https://www.youtube.com/watch?v=e4F-G-5JWjo)
 
+### CASIO model 122
+- 動作NG．
+![](./images/Casio122.jpg)
+- 1970年9月発売のCL-100の姉妹機．137,000円
+
 ### SONY SOBAX 510 (ICC-510)
 - 動作OK．
 ![](./images/SonySOBAX510.jpg)
