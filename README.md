@@ -1,8 +1,3 @@
-<style>
-    h2 {
-        page-break-before:always;
-    }
-</style>  
 # donation-item-list
 
 過去に収集したいろいろな物品のいくつかを[科学技術継承財団(夢の図書館+マイコン博物館+模型とラジオの博物館)](https://scitech.or.jp/)に寄贈させていただくことにしました。
