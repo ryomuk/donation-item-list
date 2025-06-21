@@ -173,6 +173,8 @@ BC-1002は、手や指の大きさに合わせたB5版「ジャストサイズ�
 - 説明書付き．おそらくほぼ未使用の美品．
 ![](./images/ToshibaBC10.jpg)
 - 電動加算器．
+### 動画
+[![](http://img.youtube.com/vi/ggguuI-_j3s/0.jpg)](https://www.youtube.com/watch?v=ggguuI-_j3s)
 
 ## National CT-511A
 - オシロ時計表示OK．詳細動作は未確認．
